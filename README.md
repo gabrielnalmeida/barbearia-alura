@@ -1,5 +1,5 @@
 # Projeto Barbearia Alura
-Durante o primeiro curso da antiga Formação HTML & CSS Alura realizamos o desenvolvimento de um site para uma Barbearia
+Durante o primeiro curso da antiga Formação HTML & CSS Alura realizamos o desenvolvimento do site de uma Barbearia
 
 Skills utilizadas durante o processo de aprendizado:
 
